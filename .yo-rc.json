@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.19.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "modificacion",
+    "libraryId": "d77c4d61-9617-4153-bf2c-5c7f0ca9bdbd",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "modificacion",
+    "solutionShortDescription": "modificacion description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
